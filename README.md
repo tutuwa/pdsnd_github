@@ -11,6 +11,6 @@ The project is about showcasing that i can use Github to perform version control
 Python and CSV files were used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No Credits
 
 
