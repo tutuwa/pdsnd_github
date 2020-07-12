@@ -6,7 +6,7 @@ date created was 12 July 2020.
 Udacity GitHub Publish your projects online
 
 ### Description
-Describe what your project is about and what it does
+The project is about showcasing that i can use Github to perform version control
 
 ### Files used
 Include the files used
