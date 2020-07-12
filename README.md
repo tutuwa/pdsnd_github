@@ -9,8 +9,9 @@ Udacity GitHub Publish your projects online
 The project is about showcasing that i can use Github to perform version control
 
 ### Files used
-Include the files used
+Python and CSV files were used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
