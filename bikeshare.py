@@ -1,3 +1,4 @@
+#Importing all the necessary packages
 import time
 import pandas as pd
 import statistics as st
@@ -6,7 +7,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#defining a function to get filters
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -235,3 +236,4 @@ def main():
 if __name__ == "__main__":
 	main()
     
+#END of code
